@@ -26,7 +26,7 @@ dependencies {
 
 javafx {
     version = "14"
-    modules = [ 'javafx.controls', 'javafx.base', 'javafx.fxml', 'javafx.graphics' ]
+    modules = [ 'javafx.controls', 'javafx.base', 'javafx.fxml' ]
 }
 
 mainClassName = 'com.genuinecoder.Launch'
