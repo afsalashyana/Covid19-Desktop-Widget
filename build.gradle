@@ -29,4 +29,4 @@ javafx {
     modules = [ 'javafx.controls', 'javafx.base', 'javafx.fxml' ]
 }
 
-mainClassName = 'com.genuinecoder.Launch'
+mainClassName = 'com.genuinecoder.Main'

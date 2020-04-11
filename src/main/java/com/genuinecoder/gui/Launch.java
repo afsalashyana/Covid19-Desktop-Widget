@@ -1,4 +1,4 @@
-package com.genuinecoder;
+package com.genuinecoder.gui;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
@@ -44,5 +44,9 @@ public class Launch extends Application {
             secondaryStage.setX(event.getScreenX() + xOffset);
             secondaryStage.setY(event.getScreenY() + yOffset);
         });
+    }
+
+    public static void main(String[] args) {
+        launch(args);
     }
 }
