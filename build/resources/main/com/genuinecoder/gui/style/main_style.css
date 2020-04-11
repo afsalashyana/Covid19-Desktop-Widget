@@ -1,0 +1,19 @@
+* {
+  -fx-base: #232323;
+  -fx-font-family: 'Hack', 'Noto Mono', Arial;
+}
+
+.main-title {
+    -fx-font-weight: bold;
+    -fx-font-size: 20pt;
+}
+
+.country-title {
+    -fx-font-size: 16pt;
+    -fx-fill: white;
+}
+
+.content-text{
+    -fx-font-size: 14pt;
+    -fx-fill: white;
+}
