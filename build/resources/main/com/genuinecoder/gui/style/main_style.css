@@ -17,3 +17,13 @@
     -fx-font-size: 14pt;
     -fx-fill: white;
 }
+
+.context-menu {
+    -fx-text-fill: white;
+    -fx-font-size: 12pt;
+    -fx-background-color: derive(-fx-base, 40%)
+}
+
+.menu-item: focused {
+ -fx-background-color: #b68629;
+}
